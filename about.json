@@ -1,6 +1,6 @@
 {
-  "name": "discourse-material-icons-twotone",
-  "description": "Google Material Icons (twotone) for Discourse",
+  "name": "discourse-material-design-icons-twotone",
+  "description": "Material Design twotone icons for Discourse",
   "about_url": null,
   "license_url": null,
   "component": true,
